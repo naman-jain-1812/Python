@@ -1,0 +1,6 @@
+first = input("Enter your first name: ")
+last = input("Enter your last name: ")
+first = str(first)
+second = str(last)
+print('\n')
+print("Hello, "+ first + " " + last +"! Welcome to the the python program.")
